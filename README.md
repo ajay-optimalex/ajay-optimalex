@@ -72,9 +72,7 @@ I enjoy running and managing self-hosted services and experimenting with home se
 
 ## 📫 Connect With Me
 
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-* LinkedIn: YOUR_LINKEDIN
-* Portfolio: YOUR_WEBSITE
+* LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/ajayrajtp/)
 
 ---
 
