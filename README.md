@@ -72,7 +72,7 @@ I enjoy running and managing self-hosted services and experimenting with home se
 
 ## 📫 Connect With Me
 
-* LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/ajayrajtp/)
+* LinkedIn: [ajayrajtp](https://www.linkedin.com/in/ajayrajtp/)
 
 ---
 
