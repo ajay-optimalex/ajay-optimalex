@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi there 👋, I'm AJAYRAJ
 
-<!--
-**ajay-optimalex/ajay-optimalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a tech enthusiast passionate about building, self-hosting, experimenting with infrastructure, and exploring new technologies. I enjoy working on practical projects that combine software, servers, automation, and real-world problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* JavaScript / TypeScript
+* Python
+* Bash
+* SQL
+
+### Tools & Platforms
+
+* Docker
+* Linux
+* Git & GitHub
+* Proxmox
+* TrueNAS
+* Self-Hosted Services
+* Cloud & Networking
+* AWS
+
+### Development Interests
+
+* Full Stack Development
+* Self Hosting & Homelab
+* Automation
+* Infrastructure & Virtualization
+* Open Source
+
+---
+
+### 🔹 Homelab / Self-Hosting Setup
+
+I enjoy running and managing self-hosted services and experimenting with home server infrastructure.
+
+**Current Setup Includes:**
+
+* Proxmox Virtualization
+* TrueNAS Storage
+* Immich Photo Backup
+* Docker Containers
+* Network & Backup Management
+
+---
+
+## 🎯 Hobbies & Interests
+
+* 🖥️ Building and maintaining homelab servers
+* 🔧 Exploring self-hosted applications
+* 📷 Organizing and managing media libraries
+* 🧠 Learning new technologies
+* 🌐 Open-source tools and communities
+* ⚙️ Automation and optimization
+
+---
+
+
+## 🌱 Currently Learning
+
+* Advanced Infrastructure Management
+* Cloud & DevOps Workflows
+* Automation & Monitoring
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+* LinkedIn: YOUR_LINKEDIN
+* Portfolio: YOUR_WEBSITE
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning spare hardware into useful self-hosted systems and experimenting with new setups just for fun 🚀
